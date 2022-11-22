@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mern stack and looking forward to build some cool project  
 - 💞️ I’m looking to collaborate on web dev projects 
 - 📫 How to reach me ...
-- twitter - @_shadcodes
+- twitter - @nocode_shad
 - Email - arshadbhai42012@gmail.com
 
 <!---
