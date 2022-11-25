@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshad Qureshi, Computer science undergrad
 - 👀 I’m interested in everything web development 
-- 🌱 I’m currently learning mern stack and looking forward to build some cool project  
+- 🌱 I’m currently learning mevn stack and looking forward to build some cool project  
 - 💞️ I’m looking to collaborate on web dev projects 
 - 📫 How to reach me ...
 - twitter - @nocode_shad
